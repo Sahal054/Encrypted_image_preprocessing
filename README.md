@@ -32,6 +32,7 @@ Then, install required packages:
 pip3 install pip --upgrade
 pip3 install -U pip wheel setuptools --ignore-installed
 pip3 install -r requirements.txt --ignore-installed
+pip install more-itertools
 ```
 
 The above steps should only be done once.
@@ -48,6 +49,15 @@ python3 app.py
 ## Interact with the application
 
 Open the given URL link (search for a line like `Running on local URL:  http://127.0.0.1:8888/`).
+
+## For new Theme
+
+In order to use the new gradio thems layout use the command:
+
+```bash
+pip install --upgrade gradio
+
+```
 
 ## Generate new filters
 
