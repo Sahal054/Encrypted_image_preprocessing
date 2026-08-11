@@ -1,2 +1,8 @@
-concrete-ml==1.1.0
+concrete-ml==1.9.0
+fastapi
 gradio
+more-itertools
+Pillow
+python-multipart
+requests
+uvicorn
